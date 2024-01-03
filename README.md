@@ -1,13 +1,10 @@
 # Listmonk Deployment Script
 
-This script is designed to automate the initial deployment of Listmonk and its related components using Docker and bash scripting.
+This script simplifies and streamlines the deployment of Listmonk and its associated components using Docker and bash scripting. 
 
-This is a free-to-use Bash script that allows you to easily install Listmonk and enhance its security with a single command. You can utilize this script on a blank server or an existing server, making it suitable for both new and experienced Listmonk server owners.
-The script handles the entire Listmonk installation process, including activating the admin user. It ensures the security of your Listmonk server by changing the SSH port, installing a firewall, and automatically updating the firewall rules to reflect the new SSH port and installing Fail2Ban with progressive blocking rules.
+As an open-source tool, it simplifies the installation of Listmonk on both new and existing servers, ideal for users of varying expertise. It manages the full setup process, including the activation of the admin user, and bolsters security by modifying the SSH port, setting up a firewall, and implementing Fail2Ban with progressive blocking rules. 
 
-The Bash file is unencrypted, freely usable, and redistributable (though credit to Honeytree Technologies is required).
-
-
+This unencrypted Bash script is free for use and distribution, with credit to Honeytree Technologies.
 
 ## About the Script
 
